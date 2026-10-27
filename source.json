@@ -1,0 +1,36 @@
+{
+  "name": "2DM",
+  "subtitle": "2DM pour Safari sur iPhone",
+  "description": "Source officielle de 2DM pour SideStore et AltStore Classic.",
+  "iconURL": "https://raw.githubusercontent.com/ARIS-CODE-0/2DM-store/main/app-icon.png",
+  "website": "https://github.com/ARIS-CODE-0/2DM-store",
+  "apps": [
+    {
+      "name": "2DM",
+      "bundleIdentifier": "info.twodm.app",
+      "developerName": "Aris Code",
+      "subtitle": "Téléchargeur vidéo pour Safari",
+      "localizedDescription": "Extension Safari et application iOS pour détecter et télécharger des vidéos autorisées, y compris les flux HLS compatibles.",
+      "iconURL": "https://raw.githubusercontent.com/ARIS-CODE-0/2DM-store/main/app-icon.png",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "1",
+          "date": "2026-10-27",
+          "localizedDescription": "Première version de 2DM pour Safari.",
+          "downloadURL": "https://github.com/ARIS-CODE-0/2DM-store/releases/download/v1.0.0/2DM-SideStore.ipa?download=1",
+          "size": 2510266,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
