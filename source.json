@@ -13,6 +13,23 @@
       "localizedDescription": "Extension Safari et application iOS pour détecter et télécharger des vidéos autorisées, y compris les flux HLS compatibles.",
       "iconURL": "https://raw.githubusercontent.com/ARIS-CODE-0/2DM-store/main/app-icon.png",
       "category": "utilities",
+      "screenshots": [
+        {
+          "imageURL": "https://raw.githubusercontent.com/ARIS-CODE-0/2DM-store/main/screenshots/01-library-empty.jpg",
+          "width": 591,
+          "height": 1280
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/ARIS-CODE-0/2DM-store/main/screenshots/02-safari-detection.jpg",
+          "width": 591,
+          "height": 1280
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/ARIS-CODE-0/2DM-store/main/screenshots/03-download-progress.jpg",
+          "width": 591,
+          "height": 1280
+        }
+      ],
       "versions": [
         {
           "version": "1.0.0",
